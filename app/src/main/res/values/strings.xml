@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">KELOMPOK 4 SIREG 5A</string>
+    <string name="name">Muhammad Rizkiansyah</string>
+    <string name="username">Sistem Informasi</string>
+    <string name="Email">Sireg 5A</string>
+    <string name="Alamat">Indralaya</string>
+    <string name="following">Following</string>
+    <string name="_12">222</string>
+    <string name="_56995">5265</string>
+    <string name="followers">Followers</string>
+    <string name="_102">89</string>
+    <string name="repository">Repository</string>
+    <string name="google">Google</string>
+    <string name="Email_text">Email :</string>
+    <string name="Alamat_text">Alamat :</string>
+
+    <string-array name="username">
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+        <item>LIST USER</item>
+
+    </string-array>
+
+    <string-array name="name">
+        <item>Muhammad Rizkiansyah</item>
+        <item>Putri Setiyawati</item>
+        <item>Adelia Inayah Cheril</item>
+        <item>Jonathan Alfasya Putra</item>
+        <item>Wulandari Wilujeng</item>
+        <item>Asmi Naya Fitri</item>
+        <item>Oktari</item>
+        <item>Ahmad Hanif Azhari</item>
+        <item>Elvira Saharani</item>
+        <item>yoel christover sagala</item>
+    </string-array>
+
+    <string-array name="Alamat">
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Palembang</item>
+        <item>Palembang</item>
+        <item>Palembang</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+        <item>Palembang</item>
+        <item>Indralaya</item>
+        <item>Indralaya</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>08</item>
+        <item>63</item>
+        <item>22</item>
+        <item>25</item>
+        <item>67</item>
+        <item>69</item>
+        <item>48</item>
+        <item>94</item>
+        <item>55</item>
+        <item>65</item>
+    </string-array>
+
+    <string-array name="Email">
+        <item>muhammadrizkiansyah9@gmail.com</item>
+        <item>putrisetiyawati05611@gmail.com</item>
+        <item>Inayahcheril1612@gmail.com</item>
+        <item>natansyaputra@gmail.con</item>
+        <item>wulandariwilujeng11@gmail.com</item>
+        <item>asminayahfitri@gmail.com</item>
+        <item>thaoktari@gmail.com</item>
+        <item>ahmadhanifazhari45@gmail.com</item>
+        <item>elvirargg@gmail.com</item>
+        <item>yoelchrstvlsgl@gmail.com</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>4763</item>
+        <item>2523</item>
+        <item>7972</item>
+        <item>18628</item>
+        <item>277</item>
+        <item>178</item>
+        <item>428</item>
+        <item>465</item>
+        <item>14725</item>
+        <item>788</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+        <item>12</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/rzk</item>
+        <item>@drawable/ptr</item>
+        <item>@drawable/adl </item>
+        <item>@drawable/jo</item>
+        <item>@drawable/ajeng</item>
+        <item>@drawable/nay</item>
+        <item>@drawable/tari</item>
+        <item>@drawable/hnf</item>
+        <item>@drawable/elvi</item>
+        <item>@drawable/yoel</item>
+
+    </string-array>
+
+</resources>
