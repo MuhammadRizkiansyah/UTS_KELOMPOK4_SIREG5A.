@@ -40,6 +40,7 @@
                     Intent intent = new Intent(context, com.example.kelompok4sireg5a.DetailActivity.class);
                     intent.putExtra("avatar",0);
                     intent.putExtra("DATA_USER", user);
+                    intent.putExtra("position", position);
                     context.startActivity(intent);
                 }
             });
